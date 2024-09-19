@@ -1,0 +1,14 @@
+{
+  "name": "demo_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "switzerchees <patrickmichel96@yahoo.de>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
